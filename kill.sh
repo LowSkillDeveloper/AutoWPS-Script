@@ -1,1 +1,1 @@
-sleep 50 && killall wifite;
+sleep 50 && killall wifite &
